@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Chenyang Xu"
   avatar           : "photo.jpg"
-  bio              : "Assistant Professor at East China Normal University \n Email: cyxu@sei.ecnu.edu.cn"
+  bio              : "Assistant Professor at East China Normal University"
+	             "Email: cyxu@sei.ecnu.edu.cn"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
