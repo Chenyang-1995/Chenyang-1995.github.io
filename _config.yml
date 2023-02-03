@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chenyang Xu"
   avatar           : "photo.jpg"
-  bio              : "Assistant Professor at East China Normal University"
+  bio              : "Assistant Professor at East China Normal University \n Email: cyxu@sei.ecnu.edu.cn"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=n2S1wyQAAAAJ
-  email            : "cyxu@sei.ecnu.edu.cn" 
-  email            : "xcy1995@zju.edu.cn"
+  #email            : "cyxu@sei.ecnu.edu.cn" 
+  #email            : "xcy1995@zju.edu.cn"
   dblp             : https://dblp.uni-trier.de/pid/82/5658-2.html
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
