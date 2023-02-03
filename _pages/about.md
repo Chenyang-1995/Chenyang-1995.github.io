@@ -33,12 +33,12 @@ Publications
 * Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
   with: [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Mechanism Design with Predictions. ([Full Version](https://arxiv.org/abs/2205.11313)) <br />
-  with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm). <br />
-  Thirty-First International Joint Conference on Artificial Intelligence (IJCAI 2022).
 * [Learning-Augmented Algorithms for Online Subset Sum](https://link.springer.com/article/10.1007/s10898-022-01156-w).<br />
   with: [Guochuan Zhang](https://person.zju.edu.cn/0096209). <br />
   Journal of Global Optimization 2022.
+* Mechanism Design with Predictions. ([Full Version](https://arxiv.org/abs/2205.11313)) <br />
+  with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm). <br />
+  Thirty-First International Joint Conference on Artificial Intelligence (IJCAI 2022).
 * Learning-Augmented Algorithms for Online Steiner Tree. ([Full Version](https://arxiv.org/abs/2112.05353)) <br />
   with: [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/). <br />
   Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022).
