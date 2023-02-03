@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chenyang's Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently an assistant professor in Software Engineering Institute at East China Normal University. 
+Previously, I was a Ph.D. student in College of Computer Science at Zhejiang University, where I was fortunate to be advised by Prof. [Guochuan Zhang](https://person.zju.edu.cn/0096209). Before that, I was an undergrad in Chu Kochen Honors College at Zhejiang University.
+During grad school, I visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Prof. [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). 
 
-A data-driven personal website
+
+
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests are broadly in operations research and theoretical computer science. Recently, I mainly focus on making use of machine learned predictions to design robust algorithms for combinatorial optimization and mechanism design, which is usually referred to as learning-augmented algorithms (mechanisms). 
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Online Dynamic Acknowledgement with Learned Predictions. <br />
+  with: [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  IEEE International Conference on Computer Communications 2023 (INFOCOM 2023).
+* Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
+  with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
+* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
+  with: [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
+* Mechanism Design with Predictions. ([Full Version](https://arxiv.org/abs/2205.11313)) <br />
+  with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm). <br />
+  Thirty-First International Joint Conference on Artificial Intelligence (IJCAI 2022).
+* [Learning-Augmented Algorithms for Online Subset Sum](https://link.springer.com/article/10.1007/s10898-022-01156-w).<br />
+  with: [Guochuan Zhang](https://person.zju.edu.cn/0096209). <br />
+  Journal of Global Optimization 2022.
+* Learning-Augmented Algorithms for Online Steiner Tree. ([Full Version](https://arxiv.org/abs/2112.05353)) <br />
+  with: [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/). <br />
+  Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022).
+* Learnable and Instance-Robust Predictions for Online Matching, Flows and Load Balancing. ([Full Version](https://arxiv.org/abs/2011.11743)) <br />
+  with: [Thomas Lavastida](https://tlavastida.github.io/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) <br />
+  Twenty-Ninth Annual European Symposium on Algorithms (ESA 2021).
+* Using Predicted Weights for Ad Delivery. ([Full Version](https://arxiv.org/abs/2106.01079)) <br />
+  with: [Thomas Lavastida](https://tlavastida.github.io/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). <br />
+  First SIAM Conference on Applied and Computational Discrete Algorithms (ACDA 2021).
+* [The Path Set Packing Problem](https://link.springer.com/chapter/10.1007/978-3-319-94776-1_26) <br />
+  with: [Guochuan Zhang](https://person.zju.edu.cn/0096209). <br />
+  Twenty-Fourth International Computing and Combinatorics Conference (COCOON 2018).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+  
+  
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ 
+Last updated: Feb 03, 2023.
