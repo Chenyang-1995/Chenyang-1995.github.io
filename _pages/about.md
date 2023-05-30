@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently an assistant professor in Software Engineering Institute at East China Normal University. 
-Previously, I was a Ph.D. student in College of Computer Science at Zhejiang University, where I was fortunate to be advised by Prof. [Guochuan Zhang](https://person.zju.edu.cn/0096209). Before that, I was an undergrad in Chu Kochen Honors College at Zhejiang University.
+I received my Ph.D. in College of Computer Science at Zhejiang University, where I was fortunate to be advised by Prof. [Guochuan Zhang](https://person.zju.edu.cn/0096209). Before that, I was an undergrad in Chu Kochen Honors College at Zhejiang University.
 During grad school, I visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Prof. [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). 
 
 
