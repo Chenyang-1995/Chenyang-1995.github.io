@@ -23,10 +23,15 @@ My research interests are broadly in operations research and theoretical compute
 Publications
 ======
   
-
-* Online Dynamic Acknowledgement with Learned Predictions. <br />
+* Scheduling with a Limited Testing Budget. ([Full Version](https://arxiv.org/abs/2306.15597)) <br />
+  with: Christoph Damerius, [Peter Kling](https://academic.pkling.de/), [Minming Li](https://www.cityu.edu.hk/stfprofile/minming.li.htm), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  European Symposium on Algorithms (ESA 2023).
+* Online State Exploration: Competitive  Worst Case and Learning-Augmented Algorithms. <br />
   with: [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
-  IEEE International Conference on Computer Communications 2023 (INFOCOM 2023).
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023).
+* Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
+  with: [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  IEEE International Conference on Computer Communications (INFOCOM 2023).
 * Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
   with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
@@ -58,4 +63,4 @@ Publications
 
 
  
-Last updated: Feb 03, 2023.
+Last updated: June, 2023.
