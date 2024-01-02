@@ -22,7 +22,13 @@ My research interests are broadly in operations research and theoretical compute
 
 Publications
 ======
-  
+
+* Sampling for Beyond-Worst-Case Online Ranking.<br />
+with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024).
+* Auction Design for Value Maximizers with Budget and Return-on-spend Constraints. ([Full Version](https://arxiv.org/abs/2307.04302)) <br />
+  with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm),[Ruilong Zhang](https://ruilong-zhang.github.io/) <br />
+  Nineteenth Conference On Web And Internet Economics  (WINE 2023). 
 * Scheduling with a Limited Testing Budget. ([Full Version](https://arxiv.org/abs/2306.15597)) <br />
   with: Christoph Damerius, [Peter Kling](https://academic.pkling.de/), [Minming Li](https://www.cityu.edu.hk/stfprofile/minming.li.htm), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   European Symposium on Algorithms (ESA 2023).
@@ -63,4 +69,4 @@ Publications
 
 
  
-Last updated: June, 2023.
+Last updated: Jan, 2024.
