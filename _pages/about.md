@@ -23,8 +23,20 @@ My research interests are broadly in operations research and theoretical compute
 Publications
 ======
 
+* Polylogarithmic Approximations for Robust s-t Path. <br />
+  with: [Shi Li](https://tcs.nju.edu.cn/shili/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Fifty-First International Colloquium on Automata, Languages and Programming (ICALP 2024).
+* Resource-limited Network Security Games with General Contagious Attacks. <br />
+  with: [Rufan Bai](https://scholar.google.com/citations?user=ZGKk2EAAAAAJ&hl=zh-CN), [Chao Xu](https://chaoxu.prof/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirtieth International Computing and Combinatorics Conference (COCOON 2024).
+* Sponsored Search Auction Design Beyond Single Utility Maximization. <br />
+  with: Changfeng Xu, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
+  Thirtieth International Computing and Combinatorics Conference (COCOON 2024).
+* A Context-Enhanced Framework for Sequential Graph Reasoning. <br />
+  with: Shuo Shi, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
+  Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 2024).
 * Sampling for Beyond-Worst-Case Online Ranking.<br />
-with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024).
 * Auction Design for Value Maximizers with Budget and Return-on-spend Constraints. ([Full Version](https://arxiv.org/abs/2307.04302)) <br />
   with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm),[Ruilong Zhang](https://ruilong-zhang.github.io/) <br />
@@ -59,7 +71,7 @@ with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.
 * Using Predicted Weights for Ad Delivery. ([Full Version](https://arxiv.org/abs/2106.01079)) <br />
   with: [Thomas Lavastida](https://tlavastida.github.io/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). <br />
   First SIAM Conference on Applied and Computational Discrete Algorithms (ACDA 2021).
-* [The Path Set Packing Problem](https://link.springer.com/chapter/10.1007/978-3-319-94776-1_26) <br />
+* [The Path Set Packing Problem](https://link.springer.com/chapter/10.1007/978-3-319-94776-1_26). <br />
   with: [Guochuan Zhang](https://person.zju.edu.cn/0096209). <br />
   Twenty-Fourth International Computing and Combinatorics Conference (COCOON 2018).
 
@@ -69,4 +81,4 @@ with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.
 
 
  
-Last updated: Jan, 2024.
+Last updated: May, 2024.
