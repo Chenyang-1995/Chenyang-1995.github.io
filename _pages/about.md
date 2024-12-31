@@ -23,52 +23,58 @@ My research interests are broadly in operations research and theoretical compute
 Publications
 ======
 
-* Polylogarithmic Approximations for Robust s-t Path. <br />
+* [Mechanism Design for Exchange Markets.](https://arxiv.org/pdf/2410.07023) <br />
+  with: Yusen Zheng, [Yukun Cheng](https://scholar.google.com/citations?user=bSTtiLYAAAAJ&hl=zh-CN), [Xiaotie Deng](https://scholar.google.com/citations?user=OBUwP_oAAAAJ&hl=zh-CN) <br />
+  Twentieth Conference On Web And Internet Economics  (WINE 2024).
+* [Open-Book Neural Algorithmic Reasoning.](https://openreview.net/pdf?id=6HO33urpaI) <br />
+  with: Hefei Li, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
+  Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+* [Polylogarithmic Approximations for Robust s-t Path.](https://arxiv.org/pdf/2305.16439) <br />
   with: [Shi Li](https://tcs.nju.edu.cn/shili/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Fifty-First International Colloquium on Automata, Languages and Programming (ICALP 2024).
 * Resource-limited Network Security Games with General Contagious Attacks. <br />
   with: [Rufan Bai](https://scholar.google.com/citations?user=ZGKk2EAAAAAJ&hl=zh-CN), [Chao Xu](https://chaoxu.prof/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirtieth International Computing and Combinatorics Conference (COCOON 2024).
-* Sponsored Search Auction Design Beyond Single Utility Maximization. <br />
+* [Sponsored Search Auction Design Beyond Single Utility Maximization.](https://arxiv.org/pdf/2406.05988) <br />
   with: Changfeng Xu, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
   Thirtieth International Computing and Combinatorics Conference (COCOON 2024).
-* A Context-Enhanced Framework for Sequential Graph Reasoning. <br />
+* [A Context-Enhanced Framework for Sequential Graph Reasoning.](https://arxiv.org/pdf/2412.09056) <br />
   with: Shuo Shi, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
   Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 2024).
-* Sampling for Beyond-Worst-Case Online Ranking.<br />
+* [Sampling for Beyond-Worst-Case Online Ranking.](https://ojs.aaai.org/index.php/AAAI/article/view/30051)<br />
   with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024).
-* Auction Design for Value Maximizers with Budget and Return-on-spend Constraints. ([Full Version](https://arxiv.org/abs/2307.04302)) <br />
+* [Auction Design for Value Maximizers with Budget and Return-on-spend Constraints.](https://arxiv.org/abs/2307.04302) <br />
   with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm),[Ruilong Zhang](https://ruilong-zhang.github.io/) <br />
   Nineteenth Conference On Web And Internet Economics  (WINE 2023). 
-* Scheduling with a Limited Testing Budget. ([Full Version](https://arxiv.org/abs/2306.15597)) <br />
+* [Scheduling with a Limited Testing Budget.](https://arxiv.org/abs/2306.15597) <br />
   with: Christoph Damerius, [Peter Kling](https://academic.pkling.de/), [Minming Li](https://www.cityu.edu.hk/stfprofile/minming.li.htm), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   European Symposium on Algorithms (ESA 2023).
-* Online State Exploration: Competitive  Worst Case and Learning-Augmented Algorithms. <br />
+* [Online State Exploration: Competitive  Worst Case and Learning-Augmented Algorithms.](https://par.nsf.gov/servlets/purl/10479863) <br />
   with: [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023).
-* Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
+* [Online Dynamic Acknowledgement with Learned Predictions.](https://arxiv.org/abs/2305.18227) <br />
   with: [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   IEEE International Conference on Computer Communications (INFOCOM 2023).
-* Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
+* [Min-max Submodular Ranking for Multiple Agents.](http://arxiv.org/abs/2212.07682) <br />
   with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
+* [Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule.](https://arxiv.org/abs/2211.13578) <br />
   with: [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
 * [Learning-Augmented Algorithms for Online Subset Sum](https://link.springer.com/article/10.1007/s10898-022-01156-w).<br />
   with: [Guochuan Zhang](https://person.zju.edu.cn/0096209). <br />
   Journal of Global Optimization 2022.
-* Mechanism Design with Predictions. ([Full Version](https://arxiv.org/abs/2205.11313)) <br />
+* [Mechanism Design with Predictions.](https://arxiv.org/abs/2205.11313) <br />
   with: [Pinyan Lu](https://sime.sufe.edu.cn/5b/85/c10575a154501/page.htm). <br />
   Thirty-First International Joint Conference on Artificial Intelligence (IJCAI 2022).
-* Learning-Augmented Algorithms for Online Steiner Tree. ([Full Version](https://arxiv.org/abs/2112.05353)) <br />
+* [Learning-Augmented Algorithms for Online Steiner Tree.](https://arxiv.org/abs/2112.05353) <br />
   with: [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/). <br />
   Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022).
-* Learnable and Instance-Robust Predictions for Online Matching, Flows and Load Balancing. ([Full Version](https://arxiv.org/abs/2011.11743)) <br />
+* [Learnable and Instance-Robust Predictions for Online Matching, Flows and Load Balancing.](https://arxiv.org/abs/2011.11743) <br />
   with: [Thomas Lavastida](https://tlavastida.github.io/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) <br />
   Twenty-Ninth Annual European Symposium on Algorithms (ESA 2021).
-* Using Predicted Weights for Ad Delivery. ([Full Version](https://arxiv.org/abs/2106.01079)) <br />
+* [Using Predicted Weights for Ad Delivery.](https://arxiv.org/abs/2106.01079) <br />
   with: [Thomas Lavastida](https://tlavastida.github.io/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). <br />
   First SIAM Conference on Applied and Computational Discrete Algorithms (ACDA 2021).
 * [The Path Set Packing Problem](https://link.springer.com/chapter/10.1007/978-3-319-94776-1_26). <br />
@@ -81,4 +87,4 @@ Publications
 
 
  
-Last updated: May, 2024.
+Last updated: Dec, 2024.
