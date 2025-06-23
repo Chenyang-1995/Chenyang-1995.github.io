@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in Software Engineering Institute at East China Normal University. 
+I am currently an associate professor in Software Engineering Institute at East China Normal University. 
 I received my Ph.D. in College of Computer Science at Zhejiang University, where I was fortunate to be advised by Prof. [Guochuan Zhang](https://person.zju.edu.cn/0096209). Before that, I was an undergrad in Chu Kochen Honors College at Zhejiang University.
-During grad school, I visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Prof. [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). 
+During grad school, I visited Carnegie Mellon University for one and a half years, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Prof. [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). 
+
+
+
+
 
 
 
@@ -18,11 +22,20 @@ During grad school, I visited Carnegie Mellon University, where I was working wi
 Research Interests
 ======
 
-My research interests are broadly in operations research and theoretical computer science. Recently, I mainly focus on making use of machine learned predictions to design robust algorithms for combinatorial optimization and mechanism design, which is usually referred to as learning-augmented algorithms (mechanisms). 
+My research interests are broadly in operations optimization, theoretical computer science, algorithmic game theory, and artificial intelligence. My primary work focuses on the algorithmic modeling, design, and analysis of both classical problems in computer science and game theory, as well as practical optimization tasks. The goal is to develop efficient computational solutions by integrating cutting-edge AI techniques. In addition, I also explore the domain of AI reasoning, with a particular emphasis on enhancing AI performance in complex reasoning tasks—especially those involving graph-structured and temporally structured data—toward improving the reasoning capabilities and practical utility of AI systems.
+
+
+
 
 Publications
 ======
 
+* [Logarithmic Approximations for Fair k-Set Selection.](https://arxiv.org/pdf/2505.12123) <br />
+  with: [Shi Li](https://tcs.nju.edu.cn/shili/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Forth International Joint Conference on Artificial Intelligence (IJCAI 2025).
+* [Fair Submodular Maximization over a Knapsack Constraint.](https://arxiv.org/pdf/2505.12126) <br />
+  with: Lijun Li, Liuyi Yang, [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Forth International Joint Conference on Artificial Intelligence (IJCAI 2025).
 * [Mechanism Design for Exchange Markets.](https://arxiv.org/pdf/2410.07023) <br />
   with: Yusen Zheng, [Yukun Cheng](https://scholar.google.com/citations?user=bSTtiLYAAAAJ&hl=zh-CN), [Xiaotie Deng](https://scholar.google.com/citations?user=OBUwP_oAAAAJ&hl=zh-CN) <br />
   Twentieth Conference On Web And Internet Economics  (WINE 2024).
@@ -83,8 +96,12 @@ Publications
 
 
   
-  
+Editorial Boards:
+======
+
+* Associate Editor for Theoretical Computer Science Journal
+
 
 
  
-Last updated: Dec, 2024.
+Last updated: June, 2025.
