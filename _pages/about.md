@@ -22,7 +22,7 @@ During grad school, I visited Carnegie Mellon University for one and a half year
 Research Interests
 ======
 
-My research interests are broadly in operations optimization, theoretical computer science, algorithmic game theory, and artificial intelligence. My primary work focuses on the algorithmic modeling, design, and analysis of both classical problems in computer science and game theory, as well as practical optimization tasks. The goal is to develop efficient computational solutions by integrating cutting-edge AI techniques. In addition, I also explore the domain of AI reasoning, with a particular emphasis on enhancing AI performance in complex reasoning tasks—especially those involving graph-structured and temporally structured data—toward improving the reasoning capabilities and practical utility of AI systems.
+My research interests are broadly in operations optimization, theoretical computer science, algorithmic game theory, and artificial intelligence. My primary work focuses on the algorithmic modeling, design, and analysis of both classical problems in computer science and game theory, as well as practical optimization tasks. The goal is to develop efficient computational solutions by integrating cutting-edge AI techniques. In addition, I also explore the domain of AI reasoning, with a particular emphasis on enhancing AI performance in complex reasoning tasks, especially those involving graph-structured and temporally structured data.
 
 
 
