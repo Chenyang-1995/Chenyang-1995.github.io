@@ -30,6 +30,18 @@ My research interests are broadly in operations optimization, theoretical comput
 Publications
 ======
 
+* Richer Representations for Neural Algorithmic Reasoning via Auxiliary Reconstruction. <br />
+  with: Jiafu Huang, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en), Kecheng Cai, Chenhao Zhang, Wanqin Zhou, Yi Wang, Irene Zheng, Yiwei Gong. <br />
+  Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026).
+
+* [A Beyond-Worst-Case Analysis of Greedy k-means++.](https://openreview.net/pdf/b1f433b579d9a5be326162a97fd36cdddfa11f9b.pdf)<br />
+  with: [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), Ryan Milstrey, [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
+
+* [Mechanism Design for Auctions with Externalities on Budgets.](https://arxiv.org/abs/2504.14948)  <br />
+  with: Yusen Zheng, [Yukun Cheng](https://scholar.google.com/citations?user=bSTtiLYAAAAJ&hl=zh-CN), [Xiaotie Deng](https://scholar.google.com/citations?user=OBUwP_oAAAAJ&hl=zh-CN) <br />
+  International Joint Conference On Theoretical Computer Science  (IJTCS 2025).
+
 * [Logarithmic Approximations for Fair k-Set Selection.](https://arxiv.org/pdf/2505.12123) <br />
   with: [Shi Li](https://tcs.nju.edu.cn/shili/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Thirty-Forth International Joint Conference on Artificial Intelligence (IJCAI 2025).
@@ -104,4 +116,4 @@ Editorial Boards:
 
 
  
-Last updated: June, 2025.
+Last updated: Dec, 2025.
