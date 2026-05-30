@@ -70,6 +70,7 @@ Publications
 * [Open-Book Neural Algorithmic Reasoning.](https://openreview.net/pdf?id=6HO33urpaI) <br />
   with: Hefei Li, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
   Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+
 * [Polylogarithmic Approximations for Robust s-t Path.](https://arxiv.org/pdf/2305.16439) <br />
   with: [Shi Li](https://tcs.nju.edu.cn/shili/), [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
   Fifty-First International Colloquium on Automata, Languages and Programming (ICALP 2024).
