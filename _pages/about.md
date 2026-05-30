@@ -30,11 +30,11 @@ My research interests are broadly in operations optimization, theoretical comput
 Publications
 ======
 
-* Online Selfish Load Balancing <br />
+* Online Selfish Load Balancing. <br />
   with: Wenqian Wang, [Yuhao Zhang](http://www.zyhwtc.com/). <br />
   Twenty-Seventh ACM Conference on Economics and Computation (EC 2026).
 
-* Stabilizing Graph Explanations under Spurious Correlations via Self-Reflection <br />
+* Stabilizing Graph Explanations under Spurious Correlations via Self-Reflection. <br />
   with: Kecheng Cai, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), Yi Wang, Jiafu Huang, Qiyuan Liang, Peng Zheng. <br />
   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2026).
 
