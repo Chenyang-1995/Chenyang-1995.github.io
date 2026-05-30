@@ -30,7 +30,23 @@ My research interests are broadly in operations optimization, theoretical comput
 Publications
 ======
 
-* Richer Representations for Neural Algorithmic Reasoning via Auxiliary Reconstruction. <br />
+* Online Selfish Load Balancing <br />
+  with: Wenqian Wang, [Yuhao Zhang](http://www.zyhwtc.com/). <br />
+  Twenty-Seventh ACM Conference on Economics and Computation (EC 2026).
+
+* Stabilizing Graph Explanations under Spurious Correlations via Self-Reflection <br />
+  with: Kecheng Cai, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), Yi Wang, Jiafu Huang, Qiyuan Liang, Peng Zheng. <br />
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2026).
+
+* [Sponsored Search Auction Design Beyond Single Utility Maximization.](https://www.sciencedirect.com/science/article/abs/pii/S0022000026000449) <br />
+  with: Changfeng Xu, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en). <br />
+  Journal of Computer and System Sciences (2026, vol 160).
+
+* Multiagent Matroid Upgrading: Greedy is Fair and Efficient. <br />
+  with: Qingwen Ma, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), Changfeng Xu, [Ruilong Zhang](https://ruilong-zhang.github.io/). <br />
+  Twenty-Fifth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026, extended abstract).
+
+* [Richer Representations for Neural Algorithmic Reasoning via Auxiliary Reconstruction.](https://ojs.aaai.org/index.php/AAAI/article/view/39350) <br />
   with: Jiafu Huang, [Chao Peng](https://faculty.ecnu.edu.cn/_s43/pc_en/main.psp), [Zhengfeng Yang](https://scholar.google.ca/citations?user=jBDmZeQAAAAJ&hl=en), Kecheng Cai, Chenhao Zhang, Wanqin Zhou, Yi Wang, Irene Zheng, Yiwei Gong. <br />
   Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026).
 
@@ -116,4 +132,4 @@ Editorial Boards:
 
 
  
-Last updated: Dec, 2025.
+Last updated: May, 2026.
